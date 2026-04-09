@@ -1,2 +1,14 @@
-# Restaurant-website
-A premium restaurant website portfolio project built with HTML, CSS, and JavaScript.
+# Restaurant Website
+
+A premium restaurant website portfolio project built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design
+- Interactive menu filter
+- FAQ section
+- Reservation form
+- Gallery and testimonials
+- Scroll animations
+
+## Author
+Ali Razeghi
